@@ -1,0 +1,1 @@
+{"name":"Demo Block - transform sensorless diagnosis raw data","type":"transform","description":"transforms Dataset for Sensorless Drive Diagnosis raw data into edge impulse .json format","organizationId":1166,"id":1901}
